@@ -92,9 +92,6 @@ class TrainOptions(PrintableConfig):
     dim_ws_npy: str = ""    # dim_ws npy
 
     checkpoint: str = ""        # checkpoint for load
-    resume: bool = False        # resume training from latest checkpoint in experiment ckpt dir
-    resume_checkpoint: str = "" # explicit resume checkpoint path (overrides auto/latest)
-    auto_resume: bool = True    # auto-resume when resume checkpoint exists
 
     save_ckpt_freq: int = 50    # save ckpt freq (epoch)
 
