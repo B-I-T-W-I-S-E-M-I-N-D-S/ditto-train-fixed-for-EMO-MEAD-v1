@@ -1,0 +1,98 @@
+[
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "frame_num": 178
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "frame_num": 206
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "frame_num": 125
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "frame_num": 160
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "frame_num": 120
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy/WDA_AndyKim_000_6642_6722.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/WDA_AndyKim_000_6642_6722.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/WDA_AndyKim_000_6642_6722.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy/WDA_AndyKim_000_6642_6722.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy/WDA_AndyKim_000_6642_6722.npy",
+        "frame_num": 81
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/-1wCGAxqT_4+000000_000177+p0.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/-1wCGAxqT_4+000000_000177+p0.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/-1wCGAxqT_4+000000_000177+p0.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/-1wCGAxqT_4+000000_000177+p0.npy",
+        "frame_num": 178
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/Clip+eynXzhySluI+P0+C0+F20600-20730.npy",
+        "frame_num": 206
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/Clip+uWZRSkqJ--g+P0+C2+F8754-8865.npy",
+        "frame_num": 125
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/Clip+WSGW-7gHS6A+P0+C1+F2551-2669.npy",
+        "frame_num": 160
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/Clip+XCHmk9jOypY+P0+C0+F6905-7009.npy",
+        "frame_num": 120
+    },
+    {
+        "mtn": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/LP_npy_flip/WDA_AndyKim_000_6642_6722.npy",
+        "aud": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/hubert_aud_npy/WDA_AndyKim_000_6642_6722.npy",
+        "emo": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/emo_npy/WDA_AndyKim_000_6642_6722.npy",
+        "eye_open": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_open_npy_flip/WDA_AndyKim_000_6642_6722.npy",
+        "eye_ball": "C:\\Users\\USERAS\\Downloads\\sazzad\\ditto\\ditto-talkinghead-train\\example/trainset_example/eye_ball_npy_flip/WDA_AndyKim_000_6642_6722.npy",
+        "frame_num": 81
+    }
+]
